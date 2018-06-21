@@ -1,0 +1,46 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R2 Graphics (ID=0x9850)
+    Vendor:   ATI
+    VRAM:     1007 MB
+    Driver:   21.19.414.2560
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\myson\OneDrive\Desktop\Envision\CarDodgerFinalDraft\Car Dodger_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\myson\OneDrive\Desktop\Envision\CarDodgerFinalDraft\Car Dodger_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\myson\OneDrive\Desktop\Envision\CarDodgerFinalDraft\Car Dodger_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\myson\OneDrive\Desktop\Envision\CarDodgerFinalDraft\Car Dodger_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\myson\OneDrive\Desktop\Envision\CarDodgerFinalDraft\Car Dodger_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\myson\OneDrive\Desktop\Envision\CarDodgerFinalDraft\Car Dodger_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\myson\OneDrive\Desktop\Envision\CarDodgerFinalDraft\Car Dodger_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\myson\OneDrive\Desktop\Envision\CarDodgerFinalDraft\Car Dodger_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.773 seconds
+Platform assembly: C:\Users\myson\OneDrive\Desktop\Envision\CarDodgerFinalDraft\Car Dodger_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\myson\OneDrive\Desktop\Envision\CarDodgerFinalDraft\Car Dodger_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.214548 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 574 -> priority: 1 
+  Thread -> id: 274c -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 23.333406 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.728973 ms (FindLiveObjects: 0.112851 ms CreateObjectMapping: 0.047876 ms MarkObjects: 0.553426 ms  DeleteObjects: 0.013678 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.576768 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.604722 ms (FindLiveObjects: 0.101452 ms CreateObjectMapping: 0.039326 ms MarkObjects: 0.449124 ms  DeleteObjects: 0.012539 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.853767 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 411.
+Total: 0.972344 ms (FindLiveObjects: 0.171556 ms CreateObjectMapping: 0.113991 ms MarkObjects: 0.625241 ms  DeleteObjects: 0.059275 ms)
+
